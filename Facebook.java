@@ -81,7 +81,7 @@ public void FacebookSignUp() throws InterruptedException{
 	System.out.println("Facebook SignUp Successfully");
 	System.out.println("Facebook SignUp Successfully");
 	System.out.println("Facebook SignUp Successfully");
-	System.out.println("Facebook SignUp Successfully");
+	System.out.println("Facebook SignUp Successful");
 	
 }
 @AfterTest

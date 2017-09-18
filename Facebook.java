@@ -76,15 +76,19 @@ public void FacebookSignUp() throws InterruptedException{
 	driver.switchTo().window(Mainwindow);*/
 	Thread.sleep(3000);
 	System.out.println("Facebook SignUp Successfully");
+	System.out.println("Facebook SignUp Successfully");
+	System.out.println("Facebook SignUp Successfully");
+	System.out.println("Facebook SignUp Successfully");
+	System.out.println("Facebook SignUp Successfully");
+	System.out.println("Facebook SignUp Successfully");
+	System.out.println("Facebook SignUp Successfully");
 	
 }
 @AfterTest
 public void CloseBrowser(){
 	driver.close();
 	driver.quit();
-	System.out.println("Facebook SignUp Successfully");
-	System.out.println("Facebook SignUp Successfully");
-	System.out.println("Facebook SignUp Successfully");
+	
 }
 
 
